@@ -6,10 +6,12 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red.svg)](https://github.com/SBP359)
 
+
 ### 🎥 See it in Action!
 
-<video src="https://github.com/SBP359/SBP359/blob/a2a048bc232f38619d4c36ff9c9f88cf4b16a918/assets/navapp/nav.mp4" controls style="max-width:730px;">
+<video src="https://github.com/SBP359/SBP359/raw/a2a048bc232f38619d4c36ff9c9f88cf4b16a918/assets/navapp/nav.mp4" controls style="max-width:730px;">
 </video>
+
 
 </div>
 
