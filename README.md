@@ -32,7 +32,6 @@
 - Frontend: React + Vite
 - Backend: Supabase
 - Styling: TailwindCSS
-- Maps: Custom SVG Implementation
 
 ## 🗄️ Database Schema
 
