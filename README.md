@@ -1,4 +1,4 @@
-# 🎓 School Navigator Pro - Your Campus Companion 🚀
+# 🎓 Smart School Navigator 🚀
 
 <div align="center">
 
