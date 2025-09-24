@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![GitHub stars](https://img.shields.io/github/stars/SBP359/school-navigator?style=social)
+![GitHub stars](https://img.shields.io/github/stars/SBP359/Smart-School-Navigator?style=social)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red.svg)](https://github.com/SBP359)
 
