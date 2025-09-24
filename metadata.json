@@ -1,0 +1,7 @@
+{
+  "name": "smart-school-navigator",
+  "description": "By sbp359",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
