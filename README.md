@@ -162,7 +162,7 @@ SELECT setval('public.school_info_id_seq', (SELECT MAX(id) FROM public.school_in
 
 1. Clone the repo
 ```bash
-git clone https://github.com/sbp359/school-navigator.git
+git clone https://github.com/sbp359/Smart-School-Navigator.git
 ```
 
 2. Install dependencies
