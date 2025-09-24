@@ -8,6 +8,8 @@
 
 
 ### 🎥 See it in Action!
+[![Watch the video](https://img.youtube.com/vi/utqvC8uT49A/hqdefault.jpg)](https://youtu.be/utqvC8uT49A)
+
 
 <video src="https://github.com/SBP359/SBP359/raw/a2a048bc232f38619d4c36ff9c9f88cf4b16a918/assets/navapp/nav.mp4" controls style="max-width:730px;">
 </video>
