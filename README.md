@@ -170,9 +170,9 @@ git clone https://github.com/sbp359/Smart-School-Navigator.git
 npm install
 ```
 
-3. Configure environment variables
+3. Configure the variables
 ```bash
-cp .env.example .env
+Variable is hardcoded in the App.tsx, You can change the variable to an env type.
 ```
 
 4. Add required assets
