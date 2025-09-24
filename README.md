@@ -8,7 +8,7 @@
 
 ### 🎥 See it in Action!
 
-<video src="https://github.com/SBP359/SBP359/blob/c249965e06c06944b1e8ac8eda283ef6c6ba292b/assets/navapp/nav%20(1).mp4" controls="controls" style="max-width: 730px;">
+<video src="https://github.com/SBP359/SBP359/raw/c249965e06c06944b1e8ac8eda283ef6c6ba292b/assets/navapp/nav%20(1).mp4" controls style="max-width:730px;">
 </video>
 
 </div>
@@ -188,9 +188,6 @@ public/
 npm run dev
 ```
 
-## 🤝 Contributing
-
-Pull requests are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ## 📝 License
 
