@@ -8,7 +8,8 @@
 
 
 ### 🎥 See it in Action!
-[![Watch the video](https://img.youtube.com/vi/utqvC8uT49A/0.jpg)](https://youtu.be/utqvC8uT49A)
+[Watch the video on YouTube](https://youtu.be/utqvC8uT49A)
+
 
 
 
