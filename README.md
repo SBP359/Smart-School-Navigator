@@ -8,7 +8,7 @@
 
 ### 🎥 See it in Action!
 
-<video src="https://github.com/SBP359/SBP359/raw/c249965e06c06944b1e8ac8eda283ef6c6ba292b/assets/navapp/nav.mp4" controls style="max-width:730px;">
+<video src="https://github.com/SBP359/SBP359/blob/a2a048bc232f38619d4c36ff9c9f88cf4b16a918/assets/navapp/nav.mp4" controls style="max-width:730px;">
 </video>
 
 </div>
